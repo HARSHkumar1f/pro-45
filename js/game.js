@@ -147,6 +147,9 @@ class Game{
         gameOver() {
         //     fill the white color
         //  print the gameover message
+        fill("white")
+       textSize(25)
+       text("Gameover",200,200)
         }
             
 
